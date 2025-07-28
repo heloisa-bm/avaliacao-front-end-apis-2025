@@ -64,13 +64,13 @@ O objetivo deste desafio é avaliar suas habilidades em desenvolvimento de pági
 
 ## Imagens do FRONT
 #### Login
-![Tela de Login](https://github.com/LohaineMattos/avaliacao-front-end-apis-2025/blob/master/login.png?raw=true)
+![Tela de Login](https://github.com/heloisa-bm/avaliacao-front-end-apis-2025/blob/master/login.png?raw=true)
 #### Posts
-![Tela de Posts](https://github.com/LohaineMattos/avaliacao-front-end-apis-2025/blob/master/posts.png?raw=true)
+![Tela de Posts](https://github.com/heloisa-bm/avaliacao-front-end-apis-2025/blob/master/posts.png?raw=true)
 #### Leitura dos Cards
-![Tela para ler card](https://github.com/LohaineMattos/avaliacao-front-end-apis-2025/blob/master/ampliar.png?raw=true)
+![Tela para ler card](https://github.com/heloisa-bm/avaliacao-front-end-apis-2025/blob/master/ampliar.png?raw=true)
 #### Filtragem do Cards
-![Tela para filtragem](https://github.com/LohaineMattos/avaliacao-front-end-apis-2025/blob/master/buscas.png?raw=true)
+![Tela para filtragem](https://github.com/heloisa-bm/avaliacao-front-end-apis-2025/blob/master/buscar.png?raw=true)
 
 ## Avaliação
 
